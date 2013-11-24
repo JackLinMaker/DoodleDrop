@@ -1,8 +1,7 @@
 DoodleDrop 2DX Version
 =======================
 
-I use the state machine and message dispatch to this game.
-but there is some problem in it.
+I use the state machine and message dispatch to this game.but there is some problem in it.
 ---------------------------------
 
 1:I use BaseGameEntity as the Base Class for all the entities in the
