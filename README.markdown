@@ -3,6 +3,8 @@ DoodleDrop 2DX Version
 
 I use the state machine and message dispatch to this game.
 but there is some problem in it.
+---------------------------------
+
 1:I use BaseGameEntity as the Base Class for all the entities in the
 project. and I want to use the Composite more than the Inheritance, so
 at first,i want to let BaseGameEntity inherited from CCNode, and
